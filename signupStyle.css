@@ -1,0 +1,18 @@
+
+.signupContainer{
+padding: 20px;
+display:block;
+margin: 8% auto;
+width: 50%;
+text-align:center;
+border: 1px solid #ccc;
+border-radius: 10px;
+box-sizing: border-box;
+} 
+.title{
+color:#0066FF;
+padding: 15px;
+}
+.errorMessage{
+ color:#FF0000;
+}
